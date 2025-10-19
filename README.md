@@ -1,6 +1,6 @@
 ## SafeWeb – Cybersecurity SaaS for SMEs
 
-Project Overview
+# Project Overview
 
 SafeWeb is a cybersecurity SaaS platform designed to help small and medium-sized enterprises (SMEs) monitor, detect, and prevent cyber threats affordably. The platform provides real-time monitoring, vulnerability scanning, and security reports, enabling businesses to safeguard their networks and data.
 
@@ -67,6 +67,8 @@ npm run dev
   3.  uvicorn main:app --reload
 
   4. open your browser at [https://0.0.0.0:8000]
+
+---
 
 ## Usage
 
