@@ -36,9 +36,9 @@ SafeWeb is a cybersecurity SaaS platform designed to help small and medium-sized
 
 ## Installation
 
-1. Clone the repository:
+Clone the repository:
+in your bash terminal 
 
-```bash
 git clone https://github.com/It_ba_21/safeweb-project_final
 first unzip it then
 
