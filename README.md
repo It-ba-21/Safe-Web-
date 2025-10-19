@@ -1,5 +1,4 @@
-###Safe Web -Saas Cyber Security Platform
-SafeWeb – Cybersecurity SaaS for SMEs
+## SafeWeb – Cybersecurity SaaS for SMEs
 
 Project Overview
 
