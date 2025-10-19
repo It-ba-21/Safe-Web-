@@ -1,8 +1,9 @@
 ###Safe Web -Saas Cyber Security Platform
+SafeWeb – Cybersecurity SaaS for SMEs
 
-This platform helps to scan , monitor , alert or perform reports
+Project Overview
 
----
+SafeWeb is a cybersecurity SaaS platform designed to help small and medium-sized enterprises (SMEs) monitor, detect, and prevent cyber threats affordably. The platform provides real-time monitoring, vulnerability scanning, and security reports, enabling businesses to safeguard their networks and data.
 
 ## Features
 
